@@ -1,0 +1,88 @@
+body{
+    background: #FFFCF8;
+    color:#110F6E;
+    }
+.tableimg{
+    align-items: center;
+    display: flex;
+    }
+
+    body {
+        margin: 0;
+        font-family: 'Open Sans', sans-serif;
+    }
+
+    .header {
+        background-image: url(moreproduct1.jpg);
+        height: 100vh;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+    .black-block2 {
+        background-image: url(buteri.jpeg);
+        padding: 80px 0;
+    }
+
+    .header-down1{
+        background-image: url(more.jpg);
+        font-family: 'Open Sans', sans-serif;
+        position: relative;
+        color: #fdfdfd;
+    }
+
+    .marginauto {
+        margin: 10px auto 20px;
+        display: block;
+    }
+    .imgcenter{align-items: center;}
+    
+    .one ul {
+        background: #110F6E;
+        display: flex;
+        align-items: center;
+    }
+    .one li {
+        display: inline;
+        margin-left: 15px;
+        margin-right: 15px;
+    }
+    .one img {
+        margin-left: 50px; 
+    }
+    .one ul li:nth-child(2) {
+      margin-right: 100px;
+    }
+    .one a {
+        text-decoration: none;
+          color: #ffffff;
+    }
+    .one a:hover {
+        color: #677e94;
+    }
+    .one h3 {
+          color: #FFFCF8;
+    }
+    
+    .big-text {
+        color: #fdfdfd;
+         font-size: 48px; 
+    }
+    
+    
+    img{
+    display: flex;
+    }
+    
+    .inputStyle
+    {
+    margin: auto;
+    background-color: #110F6E;
+    border: none;
+    color: #ffffff;
+    padding: 20px 30px;
+    text-decoration: none;
+    margin: 20px 30px;
+    border-radius:20px;
+    cursor: pointer;
+    }
